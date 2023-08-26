@@ -12,7 +12,7 @@ TinDog is a platform that connects dog owners and dog lovers, helping them find 
 
 To run TinDog locally, follow these steps:
 
-1. Clone this repository: `git clone `
+1. Clone this repository: `git clone git@github.com:UV26320/TinDog.git `
 2. Navigate to the project directory: `cd tindog`
 
 ## Tech Stack
